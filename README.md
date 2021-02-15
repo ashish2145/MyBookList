@@ -5,5 +5,6 @@ You can add or remove book name in a list.
 
 All the book items will show in a main page.
 
-For styling I use Bootswatch.
+For styling I use Bootswatch and for theme I use yetti
 
+I grabbed fonts from fontawesome
